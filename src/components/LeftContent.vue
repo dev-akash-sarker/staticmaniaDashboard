@@ -23,7 +23,7 @@
             width="100%"
             height="100%"
             class="absolute top-2 left-[1px] scale-[1.7]"
-            :src="require('@/assets/images/profiles/profiletwo.png')"
+            src="../assets/images/profiles/profiletwo.png"
             alt="two"
           />
         </div>
@@ -34,7 +34,7 @@
             width="100%"
             height="100%"
             class="absolute top-0 left-0"
-            :src="require('@/assets/images/profiles/profilethree.png')"
+            src="../assets/images/profiles/profilethree.png"
             alt="two"
           />
         </div>
@@ -45,17 +45,14 @@
             width="100%"
             height="100%"
             class="absolute top-0 left-0"
-            :src="require('@/assets/images/profiles/profilefour.png')"
+            src="../assets/images/profiles/profilefour.png"
             alt="two"
           />
         </div>
         <div
           class="w-[29.14px] h-[29.2px] flex justify-center items-center rounded-full border-[4px] mt-[5px] border-[#ddd] ml-[11.8px]"
         >
-          <img
-            :src="require('@/assets/images/illustration/plus.png')"
-            alt="plus"
-          />
+          <img src="../assets/images/illustration/plus.png" alt="plus" />
         </div>
       </div>
     </div>
@@ -104,10 +101,7 @@
             <div
               class="w-[48px] h-[48px] bg-cart_bg rounded-full flex justify-center items-center"
             >
-              <img
-                :src="require('@/assets/images/illustration/cart.png')"
-                alt=""
-              />
+              <img src="../assets/images/illustration/cart.png" alt="" />
             </div>
             <div>
               <h5
@@ -133,10 +127,7 @@
             <div
               class="w-[48px] h-[48px] bg-train_bg rounded-full flex justify-center items-center"
             >
-              <img
-                :src="require('@/assets/images/illustration/train.png')"
-                alt="train"
-              />
+              <img src="../assets/images/illustration/train.png" alt="train" />
             </div>
             <div>
               <h5
@@ -162,10 +153,7 @@
             <div
               class="w-[48px] h-[48px] bg-housing_bg rounded-full flex justify-center items-center"
             >
-              <img
-                :src="require('@/assets/images/illustration/home.png')"
-                alt=""
-              />
+              <img src="../assets/images/illustration/home.png" alt="" />
             </div>
             <div>
               <h5
@@ -208,10 +196,7 @@
             <div
               class="w-[48px] h-[48px] bg-cart_bg rounded-full flex justify-center items-center"
             >
-              <img
-                :src="require('@/assets/images/illustration/cart.png')"
-                alt=""
-              />
+              <img src="../assets/images/illustration/cart.png" alt="" />
             </div>
             <div>
               <h5
@@ -237,10 +222,7 @@
             <div
               class="w-[48px] h-[48px] bg-train_bg rounded-full flex justify-center items-center"
             >
-              <img
-                :src="require('@/assets/images/illustration/train.png')"
-                alt="train"
-              />
+              <img src="../assets/images/illustration/train.png" alt="train" />
             </div>
             <div>
               <h5
