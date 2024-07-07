@@ -7,12 +7,7 @@
         <div
           class="w-[72px] h-[72px] rounded-[13px] overflow-hidden bg-green-500 relative"
         >
-          <img
-            width="100%"
-            height="100%"
-            src="../assets/images/profiles/Profile.png"
-            alt="profile"
-          />
+          <img width="100%" height="100%" src="/Profile.png" alt="profile" />
         </div>
         <div
           class="w-[29px] h-[29px] bg-[#DC3434] rounded-full absolute -top-[14px] -right-[14px]"

@@ -57,29 +57,29 @@
       </div>
     </div>
     <div class="flex gap-[6px] items-end mt-[46px]">
-      <div class="w-4 h-[35px] bg-stats_bg"></div>
-      <div class="w-4 h-[52px] bg-stats_bg"></div>
-      <div class="w-4 h-[44px] bg-stats_bg"></div>
-      <div class="w-4 h-[27px] bg-stats_bg"></div>
-      <div class="w-4 h-[35px] bg-stats_bg"></div>
-      <div class="w-4 h-[30px] bg-stats_bg"></div>
-      <div class="w-4 h-[44px] bg-stats_bg"></div>
-      <div class="w-4 h-[27px] bg-stats_bg"></div>
-      <div class="w-4 h-[35px] bg-stats_bg"></div>
-      <div class="w-4 h-[52px] bg-stats_bg"></div>
-      <div class="w-4 h-[44px] bg-stats_bg"></div>
-      <div class="w-4 h-[27px] bg-stats_bg"></div>
-      <div class="w-4 h-[35px] bg-stats_bg"></div>
-      <div class="w-4 h-[30px] bg-stats_bg"></div>
-      <div class="w-4 h-[44px] bg-stats_bg"></div>
-      <div class="w-4 h-[35px] bg-stats_bg"></div>
-      <div class="w-4 h-[27px] bg-stats_bg"></div>
-      <div class="w-4 h-[52px] bg-stats_bg"></div>
-      <div class="w-4 h-[44px] bg-stats_bg"></div>
-      <div class="w-4 h-[27px] bg-stats_bg"></div>
-      <div class="w-4 h-[35px] bg-stats_bg"></div>
+      <div class="w-4 h-[35px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[52px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[44px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[27px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[35px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[30px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[44px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[27px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[35px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[52px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[44px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[27px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[35px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[30px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[44px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[35px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[27px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[52px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[44px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[27px] bg-stats_bg hover:bg-stats_solid_bg"></div>
+      <div class="w-4 h-[35px] bg-stats_bg hover:bg-stats_solid_bg"></div>
       <div class="w-4 h-[60px] bg-stats_solid_bg"></div>
-      <div class="w-4 h-[44px] bg-stats_bg"></div>
+      <div class="w-4 h-[44px] bg-stats_bg hover:bg-stats_solid_bg"></div>
     </div>
     <div>
       <div class="flex justify-between items-center mt-[47px]">

@@ -19,6 +19,7 @@ module.exports = {
       common_text_color: "var(--common-text-color)",
       white: "var(--white)",
       black: "var(--black)",
+      bars_border_color: "var(--bars-border-color)",
     },
     fontFamily: {
       poppins_regular: ["poppins-regular"],

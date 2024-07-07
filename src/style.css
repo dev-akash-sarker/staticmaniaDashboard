@@ -17,6 +17,7 @@ body {
   --food-bg: #dc3434;
   --entertainment-bg: #4ba83d;
   --bars-bg: #31ba96;
+  --bars-border-color: #eceff5;
   --common-bg: #ffffff;
   --primary-color: #273240;
   --secondary-color: #262a41;
@@ -60,4 +61,17 @@ body {
 @font-face {
   font-family: "Avenir Next LT Pro Bold";
   src: url(./assets/fonts/avenir/AvenirNextLTPro-Bold.otf);
+}
+
+.myanimation {
+  animation: widthincrease 2s reverse;
+}
+
+@keyframes widthincrease {
+  to {
+    width: 0%;
+  }
+  from {
+    width: 100%;
+  }
 }
