@@ -52,7 +52,7 @@
         <div
           class="w-[29.14px] h-[29.2px] flex justify-center items-center rounded-full border-[4px] mt-[5px] border-[#ddd] ml-[11.8px]"
         >
-          <img src="../assets/images/illustration/plus.png" alt="plus" />
+          <!-- <img src="../assets/images/illustration/plus.png" alt="plus" /> -->
         </div>
       </div>
     </div>
