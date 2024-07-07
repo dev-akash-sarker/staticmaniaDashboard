@@ -225,10 +225,10 @@
             <div
               class="w-[48px] h-[48px] bg-train_bg rounded-full flex justify-center items-center"
             >
-              <!-- <img
-                src="/src/assets/images/illustration/train.png"
+              <img
+                src="../../assets/images/illustration/train.png"
                 alt="train"
-              /> -->
+              />
             </div>
             <div>
               <h5
