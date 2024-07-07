@@ -1,6 +1,5 @@
 module.exports = {
-  purge: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
-  darkMode: false, // or 'media' or 'class'
+  purge: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"], // or 'media' or 'class'
   theme: {
     colors: {
       primary_bg: "var(--primary-bg)",
