@@ -33,7 +33,7 @@
         <nav>
           <ul class="flex flex-col gap-[30px] mt-[117px] capitalize">
             <li
-              class="font-poppins_semibold font-semibold text-[25px] text-[rgba(255,255,255,.5)]"
+              class="font-poppins_semibold font-semibold text-[25px] text-[rgba(255,255,255,.5)] hover:text-white cursor-pointer"
             >
               dashboard
             </li>
@@ -43,22 +43,22 @@
               expenses
             </li>
             <li
-              class="font-poppins_semibold font-semibold text-[25px] text-[rgba(255,255,255,.5)]"
+              class="font-poppins_semibold font-semibold text-[25px] text-[rgba(255,255,255,.5)] hover:text-white cursor-pointer"
             >
               wallets
             </li>
             <li
-              class="font-poppins_semibold font-semibold text-[25px] text-[rgba(255,255,255,.5)]"
+              class="font-poppins_semibold font-semibold text-[25px] text-[rgba(255,255,255,.5)] hover:text-white cursor-pointer"
             >
               summary
             </li>
             <li
-              class="font-poppins_semibold font-semibold text-[25px] text-[rgba(255,255,255,.5)]"
+              class="font-poppins_semibold font-semibold text-[25px] text-[rgba(255,255,255,.5)] hover:text-white cursor-pointer"
             >
               accounts
             </li>
             <li
-              class="font-poppins_semibold font-semibold text-[25px] text-[rgba(255,255,255,.5)]"
+              class="font-poppins_semibold font-semibold text-[25px] text-[rgba(255,255,255,.5)] hover:text-white cursor-pointer"
             >
               settings
             </li>
